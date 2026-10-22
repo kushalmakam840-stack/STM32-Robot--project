@@ -1,4 +1,3 @@
-
 Today, I started the physical chassis preparation for my STM32-based AGV/AMR robot.
 
 ## Work Completed
